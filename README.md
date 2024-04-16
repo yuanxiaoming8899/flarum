@@ -1,40 +1,32 @@
-<p align="center">
-<a href="https://flarum.org/"><img src="https://flarum.org/assets/img/logo.png"></a>
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
+<a href="https://flarum.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/914acc0863aa560bb2daa910c28b2866f140a61bad0e3adb1d228cb5f1c26dc9/68747470733a2f2f666c6172756d2e6f72672f6173736574732f696d672f6c6f676f2e706e67" data-canonical-src="https://flarum.org/assets/img/logo.png" style="max-width: 100%;"></a>
 </p>
-
-<p align="center">
-<a href="https://packagist.org/packages/flarum/core"><img src="https://poser.pugx.org/flarum/core/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/flarum/core"><img src="https://poser.pugx.org/flarum/core/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/flarum/core"><img src="https://poser.pugx.org/flarum/core/license.svg" alt="License"></a>
+<p align="center" dir="auto">
+<a href="https://packagist.org/packages/flarum/core" rel="nofollow"><img src="https://camo.githubusercontent.com/03a90957442325d8e1851467b9f71ebd536e7bb4c039582dcf436a11e0922e85/68747470733a2f2f706f7365722e707567782e6f72672f666c6172756d2f636f72652f642f746f74616c2e737667" alt="总下载量" data-canonical-src="https://poser.pugx.org/flarum/core/d/total.svg" style="max-width: 100%;"></a>
+<a href="https://packagist.org/packages/flarum/core" rel="nofollow"><img src="https://camo.githubusercontent.com/fa20b09b4f35adeb287a4984c3e127340f9f4db5c836739281178e9a26463a0b/68747470733a2f2f706f7365722e707567782e6f72672f666c6172756d2f636f72652f762f737461626c652e737667" alt="最新稳定版本" data-canonical-src="https://poser.pugx.org/flarum/core/v/stable.svg" style="max-width: 100%;"></a>
+<a href="https://packagist.org/packages/flarum/core" rel="nofollow"><img src="https://camo.githubusercontent.com/24de19fb4eb11452e84520f13b1cee3f853127881e07de080a4cb6f4feec00a5/68747470733a2f2f706f7365722e707567782e6f72672f666c6172756d2f636f72652f6c6963656e73652e737667" alt="执照" data-canonical-src="https://poser.pugx.org/flarum/core/license.svg" style="max-width: 100%;"></a>
 </p>
-
-## About Flarum
-
-**[Flarum](https://flarum.org/) is a delightfully simple discussion platform for your website.** It's fast and easy to use, with all the features you need to run a successful community. It is designed to be:
-
-* **Fast and simple.** No clutter, no bloat, no complex dependencies. Flarum is built with PHP so it’s quick and easy to deploy. The interface is powered by Mithril, a performant JavaScript framework with a tiny footprint.
-
-* **Beautiful and responsive.** This is forum software for humans. Flarum is carefully designed to be consistent and intuitive across platforms, out-of-the-box.
-
-* **Powerful and extensible.** Customize, extend, and integrate Flarum to suit your community. Flarum’s architecture is amazingly flexible, with a powerful Extension API.
-
-![screenshot](https://flarum.org/assets/img/home-screenshot.png)
-
-## Installation
-
-Read the **[Installation guide](https://docs.flarum.org/install)** to get started. For support, refer to the [documentation](https://docs.flarum.org/), and ask questions on the [community forum](https://discuss.flarum.org/) or [Discord chat](https://flarum.org/discord/).
-
-## Contributing
-
-Thank you for considering contributing to Flarum! Please read the **[Contributing guide](https://docs.flarum.org/contributing)** to learn how you can help.
-
-This repository only holds the Flarum skeleton application. Most development happens in [flarum/core](https://github.com/flarum/core).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Flarum, please follow our [security policy](https://github.com/flarum/core/security/policy) so we can address it promptly.
-
-## License
-
-Flarum is open-source software licensed under the [MIT License](https://github.com/flarum/flarum/blob/master/LICENSE).
-
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">关于弗拉鲁姆</font></font></h2><a id="user-content-about-flarum" class="anchor" aria-label="永久链接：关于 Flarum" href="#about-flarum"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><strong><a href="https://flarum.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Flarum</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是一个非常简单的网站讨论平台。</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">它快速且易于使用，具有运行成功社区所需的所有功能。它的设计目的是：</font></font></p>
+<ul dir="auto">
+<li>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">快速而简单。</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">没有混乱，没有臃肿，没有复杂的依赖关系。 Flarum 使用 PHP 构建，因此部署起来既快速又简单。该界面由 Mithril 提供支持，这是一个占用空间很小的高性能 JavaScript 框架。</font></font></p>
+</li>
+<li>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">美丽且反应灵敏。</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这是人类的论坛软件。 Flarum 经过精心设计，跨平台一致且直观，开箱即用。</font></font></p>
+</li>
+<li>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">功能强大且可扩展。</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">定制、扩展和集成 Flarum 以适合您的社区。 Flarum 的架构非常灵活，具有强大的扩展 API。</font></font></p>
+</li>
+</ul>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5f545adafd7d325fadd29ace61b303ca71c76dec0cc7560499e9b4416d79ddb3/68747470733a2f2f666c6172756d2e6f72672f6173736574732f696d672f686f6d652d73637265656e73686f742e706e67"><img src="https://camo.githubusercontent.com/5f545adafd7d325fadd29ace61b303ca71c76dec0cc7560499e9b4416d79ddb3/68747470733a2f2f666c6172756d2e6f72672f6173736574732f696d672f686f6d652d73637265656e73686f742e706e67" alt="截屏" data-canonical-src="https://flarum.org/assets/img/home-screenshot.png" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装</font></font></h2><a id="user-content-installation" class="anchor" aria-label="永久链接：安装" href="#installation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阅读</font></font><strong><a href="https://docs.flarum.org/install" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装指南</font></font></a></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以开始使用。如需支持，请参阅</font></font><a href="https://docs.flarum.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档，并在</font></font></a><font style="vertical-align: inherit;"></font><a href="https://discuss.flarum.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">社区论坛</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或</font></font><a href="https://flarum.org/discord/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Discord 聊天</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中提问</font><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></h2><a id="user-content-contributing" class="anchor" aria-label="永久链接：贡献" href="#contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">感谢您考虑为 Flarum 做出贡献！请阅读</font></font><strong><a href="https://docs.flarum.org/contributing" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献指南</font></font></a></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以了解如何提供帮助。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该存储库仅包含 Flarum 骨架应用程序。大多数开发发生在</font></font><a href="https://github.com/flarum/core"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">flarum/core</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安全漏洞</font></font></h2><a id="user-content-security-vulnerabilities" class="anchor" aria-label="永久链接：安全漏洞" href="#security-vulnerabilities"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您发现 Flarum 中存在安全漏洞，请遵循我们的</font></font><a href="https://github.com/flarum/core/security/policy"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安全政策</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，以便我们及时解决。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h2><a id="user-content-license" class="anchor" aria-label="永久链接：许可证" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://github.com/flarum/flarum/blob/master/LICENSE"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Flarum 是根据MIT License</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">获得许可的开源软件</font><font style="vertical-align: inherit;">。</font></font></p>
+</article></div>
